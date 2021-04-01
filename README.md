@@ -1,5 +1,5 @@
 # snakegame
-# Advanced "Snake Game" Project for IS1200 course
+# Advanced "Snake Game" project
 
 ## Extended Abstract
 
