@@ -1,4 +1,4 @@
-# “(Advanced) Snake Game”
+# (Advanced) Snake Game
 
 ###### Objective and Requirements
 Project for “IS1200 Computer Hardware Engineering” KTH course. 
